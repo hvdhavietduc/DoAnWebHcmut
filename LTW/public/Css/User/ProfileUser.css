@@ -1,0 +1,129 @@
+.profile-wrap {
+    padding: 20px;
+}
+.profileform, .changepassform {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+.profile-header {
+    padding-bottom: 20px;
+}
+.profileform label {
+    font-size: 20px;
+    padding-left: 10px;
+}
+.avatar-wrap {
+    width: 40%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#imgshow {
+    object-fit: cover;
+    width: 90%;
+    margin-bottom: 20px;
+}
+.profile-infor-wrap {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+    height: 100%;
+}
+.profile-infor {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #000000;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.changepassform {
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.profile-infor input, .changepassform input {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.changepassform input {
+    padding: 10px 30px 10px 30px;
+}
+.profile-infor input:focus {
+    background-color: #c2d5ed;
+}
+.profile-buttons{
+    display: flex;
+    justify-content: center;
+}
+.editprofile, #selectimg, .exit, .changepassword{
+    width: fit-content;
+    background-color: #1877f2;
+    font-weight: 600;
+    font-size: 17px;
+    border: #fff;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+.changepassword {
+    width: fit-content;
+}
+#imgload {
+    padding: 10px;
+}
+#selectimg {
+    margin-top: 20px;
+}
+.exit {
+    background-color: rgb(227, 57, 57);
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    width: fit-content;
+}
+.exit:hover {
+    background-color: #ea9090;
+}
+.editprofile:hover, #selectimg:hover {
+    background-color: #283e5b;
+    cursor: pointer;
+}
+
+/* Điện thoại thông minh */
+@media (max-width: 768px) {
+    .profileform {
+        display: flex;
+        flex-direction: column;
+    }
+    .avatar-wrap {
+        width: 100%;
+    }
+    .profile-infor-wrap {
+        width: 95%;
+    }
+    .profile-infor {
+        width: 100%;
+    }
+ }
+ /* Các thiết bị nhỏ, máy tính bảng */
+ @media (min-width: 768px) and (max-width:992px) {
+
+ }
+ 
+ /* Các thiết bị trung bình */
+ @media (min-width: 992px) and (max-width:1200px) {
+
+ }
