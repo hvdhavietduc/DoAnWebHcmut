@@ -57,7 +57,7 @@
                     <span class="sb__logo-title1">LOGO</span>
                 </div>
                 <ul class="sb__menu">
-                    <li class="sb__menu-item">
+                <li class="sb__menu-item">
                         <a class="sb__menu-link" href="./index.php?url=AdminPrimary">
                             <i class="sb__menu-dashboard fa-solid fa-house"></i>
                             <span class="sb__menu-title">Dasboard</span>
@@ -93,26 +93,6 @@
                         </a>
                     </li>
 
-                    <li class="sb__menu-item">
-                        <a class="sb__menu-link" href="./index.php?url=AdminComment">
-                            <i class="sb__menu-cmt fa-solid fa-comment"></i>
-                            <span class="sb__menu-title">Quản trị bình luận</span>
-                        </a>
-                    </li>
-
-                    <li class="sb__menu-item">
-                        <a class="sb__menu-link" href="#">
-                            <i class="sb__menu-company fa-solid fa-building"></i>
-                            <span class="sb__menu-title">Quản trị thông tin công ty</span>
-                        </a>
-                    </li>
-
-                    <li class="sb__menu-item">
-                        <a class="sb__menu-link" href="#">
-                            <i class="sb__menu-resource fa-solid fa-layer-group"></i>
-                            <span class="sb__menu-title">Quản trị tài nguyên</span>
-                        </a>
-                    </li>
 
                 </ul>
             </div>
@@ -158,27 +138,6 @@
                         </a>
                     </li>
 
-                    <li class="sb__menu-item">
-                        <a class="sb__menu-link" href="index.php?action=commentM&query=insert">
-                            <i class="sb__menu-cmt fa-solid fa-comment"></i>
-                            <span class="sb__menu-title">Quản trị bình luận</span>
-                        </a>
-                    </li>
-
-                    <li class="sb__menu-item">
-                        <a class="sb__menu-link" href="index.php?action=infoCompanyM&query=insert">
-                            <i class="sb__menu-company fa-solid fa-building"></i>
-                            <span class="sb__menu-title">Quản trị thông tin công ty</span>
-                        </a>
-                    </li>
-
-                    <li class="sb__menu-item">
-                        <a class="sb__menu-link" href="index.php?action=resourceM&query=insert">
-                            <i class="sb__menu-resource fa-solid fa-layer-group"></i>
-                            <span class="sb__menu-title">Quản trị tài nguyên</span>
-                        </a>
-                    </li>
-
                 </ul>
             </div>
 
@@ -198,7 +157,7 @@
                     <i class="header__account-notifi fa-regular fa-bell"></i>
                     <i class="header__account-mail fa-regular fa-envelope"></i>
                     <i class="header__account-avatar fa-regular fa-user"></i>
-                    <span class="header__account-name">Minh Bảo</span>
+                    <span class="header__account-name">Hà Việt Đức</span>
                     <form method="post" action="./index.php?url=AdminPrimary/logout">
                         <button class='exit' onclick="return confirm('Bạn có muốn đăng xuất ?')">
                             <i class='header__account-leaveIcon fa-solid fa-arrow-right-from-bracket'></i>

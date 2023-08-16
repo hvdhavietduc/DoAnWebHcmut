@@ -1,10 +1,10 @@
 <?php
 
 $listImg = [
-    'https://bucket.nhanh.vn/04f7ff-92233/bn/20221117_DhsyxB9AnDmC0zvuV8gY9gXs.jpg',
-    'https://bucket.nhanh.vn/04f7ff-92233/bn/20221207_Kqn2WzHQ2ZmxpIuw.jpg',
-    'https://bucket.nhanh.vn/04f7ff-92233/bn/20221110_Qk9cp0UBpawQBpCUt0aScKyz.jpg',
-    'https://bucket.nhanh.vn/04f7ff-92233/bn/20221024_kActgMi0qrzceMWAOfrbwkTo.jpg'
+    'https://th.bing.com/th/id/OIP.9q_ferGvzZnY_26XCsA5-wHaE_?pid=ImgDet&rs=1',
+    'https://i.pinimg.com/originals/ac/85/61/ac8561c0cc10059f18e128b851c97f41.jpg',
+    'https://cdn.weartesters.com/wp-content/uploads/2013/06/Meet-The-Nike-CJ81-Calvin-Johnsons-First-Signature-Trainer-13.jpg',
+    'https://i.pinimg.com/originals/de/fe/2d/defe2de4b3b065ed493ab2b14e7d8589.jpg'
 ]
 
     ?>
@@ -24,10 +24,10 @@ $listImg = [
                         <div class="grid__column-35">
                             <div class="main__beside">
                                 <div class="main__beside-1">
-                                    <img class="beside-1-img" src='https://bucket.nhanh.vn/04f7ff-92233/bn/20221208_LSyzLXiH2IqpYJJY.jpg'>
+                                    <img class="beside-1-img" src='https://th.bing.com/th/id/R.9d9b7dd0facd55d1ee8ba37ffa60f763?rik=yoURXJ4COEK05A&pid=ImgRaw&r=0'>
                                 </div>
                                 <div class="main__beside-2">
-                                    <img class="beside-2-img" src='https://bucket.nhanh.vn/04f7ff-92233/bn/20221117_DhsyxB9AnDmC0zvuV8gY9gXs.jpg'>
+                                    <img class="beside-2-img" src='https://th.bing.com/th/id/OIP.eFv16WMwjN4pN7Xm5KrIeAHaHa?pid=ImgDet&w=640&h=640&rs=1'>
                                 </div>
                             </div>
                         </div>

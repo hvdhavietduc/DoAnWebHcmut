@@ -118,7 +118,7 @@
                             </li>
                             <li class="footer__list-item">
                                 <i class="footer__list-icon fa-regular fa-envelope"> </i>
-                                <span class="footer__list-item_link">bao.nguyenminhbaott5@hcmut<br />.edu.vn</span>
+                                <span class="footer__list-item_link">duc.ha000412@hcmut<br />.edu.vn</span>
                             </li>
                             <li class="footer__list-item">
                                 <i class="footer__list-icon fa-solid fa-location-dot"></i>

@@ -11,44 +11,7 @@
                     <i class="fas fa-plus"></i>
                  Tạo mới tin tức</a>
             </div>
-            <div class="l-2 m-3 c-6">
-                <a class="btn  btn-sm nhap-tu-file" type="button" title="Nhập" onclick=""><i class="fas fa-file-upload"></i> Tải từ file</a>
-            </div>
-            <div class="l-2 m-3 c-6">
-                <a class="btn  btn-sm print-file" type="button" title="In" onclick=""><i class="fas fa-print"></i> In dữ liệu</a>
-            </div>
-            <div class="l-2 m-3 c-6">
-                <a class="btn btn-copy btn-sm" type="button" title="Sao chép"><i class="fas fa-copy"></i> Sao chép</a>
-            </div>
-            <div class="l-2 m-3 c-6">
-            <a class="btn  btn-sm btn-delete" type="button" title="Xóa" onclick=""><i class="fas fa-trash-alt"></i> Xóa tất cả </a>
-            </div>           
-        </div>
-        </div>
-        </div>
-        <div class="manageNews__content-content">
-            <div class="grid">
-                <div class="row">
-                    <div class="l-3 m-3 c-12">
-                        <div class="content__display">
-                            <span>Hiện</span>
-                            <select class="content__display-select">
-                                <option>10</option>
-                                <option>20</option>
-                                <option>50</option>
-                                <option>100</option>
-                            </select>
-                            <span>Tin Tức</span>
-                        </div>
-                    </div>
-                    <div class="l-o-4 m-o-2">
-                       <div class="content__display-search">
-                            <span class="search-title">Tìm Kiếm : </span>
-                            <input class="search-input" placeholder="Nhập tin tức cần tìm">
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
         <div class="manageNews__content-bottom">
             <div class="grid">

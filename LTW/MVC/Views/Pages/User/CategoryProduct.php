@@ -64,8 +64,6 @@ else $currentPage=1;
                             <div class="home-filter">
                                 <span class="home-filter__label"> Sắp xếp theo</span>
                                 <button class="BTN btn--primary">Hãng</button>
-                                <button class="BTN filter-color">Màu sắc</button>
-                                <button class="BTN filter-size">Size</button>
                                 <form class="filter-form" method="POST" action='./index.php?url=CategoryProduct/filter'>
                                     <select class="select-input" name='selectPrice'>
                                         <option class="optionSelect" value='0'> Giá</option> 

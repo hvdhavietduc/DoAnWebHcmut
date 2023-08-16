@@ -2,60 +2,7 @@
     <div class="dashboard__title">
         <h4 class="dashboard__title-text"> DashBoard</h4>
     </div>
-    <div clas="dashboard__overview">
-        <div class="grid">
-            <div class="row ">
-                <div class="l-6 m-12 c-12 ">
-                    <div class="table">
-                        <div class="table__img-user">
-                            <i class="user-icon fa-solid fa-users"></i>
-                        </div>
-                        <div class="table__content">
-                            <h2 class="table__content-heading">Tổng Khách Hàng</h2>
-                            <span class="table__content-infor">1000 Khách Hàng</span>
-                            <span class="table__content-bottom"> Tổng số khách hàng được quản lý </span>
-                        </div>
-                    </div>
-                </div>
-                <div class="l-6 m-12 c-12">
-                    <div class="table">
-                        <div class="table__img-data">
-                            <i class="data-icon fa-solid fa-database"></i>
-                        </div>
-                        <div class="table__content">
-                            <h2 class="table__content-heading">Tổng Sản Phẩm</h2>
-                            <span class="table__content-infor">1000 Sản Phẩm</span>
-                            <span class="table__content-bottom"> Tổng số sản phẩm được quản lý </span>
-                        </div>
-                    </div>
-                </div>
-                <div class="l-6 m-12 c-12">
-                    <div class="table">
-                        <div class="table__img-bag">
-                            <i class="bag-icon fa-solid fa-bag-shopping"></i>
-                        </div>
-                        <div class="table__content">
-                            <h2 class="table__content-heading">Tổng Đơn Hàng</h2>
-                            <span class="table__content-infor">1000 Đơn Hàng</span>
-                            <span class="table__content-bottom"> Tổng số hóa đơn bán hàng trong tháng. </span>
-                        </div>
-                    </div>
-                </div>
-                <div class="l-6 m-12 c-12">
-                    <div class="table">
-                        <div class="table__img-error">
-                            <i class="error-icon fa-solid fa-triangle-exclamation"></i>
-                        </div>
-                        <div class="table__content">
-                            <h2 class="table__content-heading">Sắp Hết Hạn</h2>
-                            <span class="table__content-infor">1000 Sản Phẩm</span>
-                            <span class="table__content-bottom"> Số sản phẩm cảnh báo hết cần nhập thêm. </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
     <div class="dashboard__status">
         <div class="dashboard__product">   
             <h3 class="dashboard__product-heading"> Tình Trạng Đơn Hàng</h3>
@@ -136,7 +83,7 @@
                       </tr>
                       <tr>
                         <td>#175</td>
-                        <td>Nguyễn Lê Minh Bảo</td>
+                        <td>Nguyễn Lê Hà Việt Đức</td>
                         <td>4/12/2000</td>
                         <td><span class="tag tag-danger">0912376763</span></td>
                       </tr>
